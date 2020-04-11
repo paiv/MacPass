@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MacPass.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Frameworks/HNHUi/HNHUi.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Frameworks/KeePassKit/KeePassKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Frameworks/KissXML/KissXML.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Frameworks/TransformerKit/TransformerKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Frameworks/Sparkle/Sparkle.xcodeproj">
+   </FileRef>
+</Workspace>
